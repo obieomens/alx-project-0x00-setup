@@ -26,9 +26,10 @@ const Landing: React.FC = () => {
 
         {/* Large Buttons */}
         <div className="flex gap-4 items-center">
-            <Button title="Small - sm" styles="text-lg rounded-sm" />
-            <Button title="Medium - md" styles="text-lg rounded-md" />
-            <Button title="Full - full" styles="text-lg rounded-full" />
+            <Button title="Large - sm" styles="text-lg rounded-sm" />
+            <Button title="Large - md" styles="text-lg rounded-md" />
+            <Button title="Large - full" styles="text-lg rounded-full" />
+            <Button title="Large - lg" styles="text-lg rounded-lg" />
         </div>
     </main>
             </div>
